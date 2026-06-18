@@ -1,3 +1,4 @@
+  GNU nano 9.0            next.config.js
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   experimental: {
@@ -6,3 +7,6 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+
+
+
